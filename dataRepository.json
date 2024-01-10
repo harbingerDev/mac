@@ -1,1 +1,26 @@
-{"dev":{},"qa":{},"integration":{},"staging":{},"uat":{},"prod":{}}
+{
+  "dev": {
+    "data_431188": "automation",
+    "data_136740": "had"
+  },
+  "qa": {
+    "data_431188": "automation",
+    "data_136740": "had"
+  },
+  "integration": {
+    "data_431188": "automation",
+    "data_136740": "had"
+  },
+  "staging": {
+    "data_431188": "automation",
+    "data_136740": "had"
+  },
+  "uat": {
+    "data_431188": "automation",
+    "data_136740": "had"
+  },
+  "prod": {
+    "data_431188": "automation",
+    "data_136740": "had"
+  }
+}
